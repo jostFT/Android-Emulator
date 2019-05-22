@@ -1,0 +1,14 @@
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\bin\Release\Android-Emulator.exe.config
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\bin\Release\Android-Emulator.exe.manifest
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\bin\Release\Android-Emulator.application
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\bin\Release\Android-Emulator.exe
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\bin\Release\Android-Emulator.pdb
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android-Emulator.csprojAssemblyReference.cache
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android_Emulator.MainForm.resources
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android_Emulator.Properties.Resources.resources
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android-Emulator.csproj.GenerateResource.cache
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android-Emulator.csproj.CoreCompileInputs.cache
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android-Emulator.exe.manifest
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android-Emulator.application
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android-Emulator.exe
+C:\Users\jost.FT\Desktop\FT\Android-Emulator\Android-Emulator\obj\Release\Android-Emulator.pdb

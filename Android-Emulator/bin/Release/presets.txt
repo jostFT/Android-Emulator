@@ -1,0 +1,1 @@
+Default¦-dns-server 8.8.8.8¦-feature WindowsHypervisorPlatform¦-writable-system¦-no-snapshot-load
